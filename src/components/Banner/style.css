@@ -1,0 +1,26 @@
+/* Banner.css */
+.banner {
+    height: 70vh;
+    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url('https://i.ibb.co/3sGKQzV/Clothing.png') no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.inputfield {
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid #DEDEDE;
+    background: #FFF;
+
+}
+
+.btnsearch {
+    padding: 10px 10px 10px 10px;
+
+    color: #FFF;
+    border-radius: 0px 5px 5px 0px;
+    background: #FF444A;
+}
+.btnsearch:hover{
+    background-color: #FF444A;
+}
